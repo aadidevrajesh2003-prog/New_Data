@@ -1,0 +1,2 @@
+class EmployeeDetails:
+    pass
